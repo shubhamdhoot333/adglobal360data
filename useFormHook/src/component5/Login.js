@@ -6,7 +6,9 @@ function Login() {
     register,
     handleSubmit,
     formState: { errors },
-  } = useForm();
+  } = useForm({
+    mode: "onTouched",
+  } );
   const handleRegistration = (data) => {
     console.log(data);
   };
