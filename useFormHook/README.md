@@ -1,3 +1,5 @@
+it in component 5 is main where all work is given
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
